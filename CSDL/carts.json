@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "651e847e3171c0618a10bbca"
+  },
+  "user": {
+    "$oid": "651e63fc506faaf117bb0338"
+  },
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "size": "L",
+  "quantity": 1,
+  "createdAt": {
+    "$date": "2023-10-05T09:40:14.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:40:14.936Z"
+  },
+  "__v": 0
+}]

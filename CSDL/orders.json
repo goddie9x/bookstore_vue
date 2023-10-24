@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "651e5abd506faaf117bb00eb"
+  },
+  "user": {
+    "$oid": "64f93f54970af0ad1345d896"
+  },
+  "deliveryAddress": "An Giang",
+  "fullName": "tran",
+  "phoneNumber": "0357433800",
+  "status": true,
+  "cancel": false,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T06:42:05.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T06:58:31.352Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e930d3171c0618a10bcda"
+  },
+  "user": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "deliveryAddress": "AN Giang",
+  "fullName": "tran",
+  "phoneNumber": "0357433800",
+  "status": true,
+  "cancel": false,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T10:42:21.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T10:43:17.543Z"
+  },
+  "__v": 0
+}]

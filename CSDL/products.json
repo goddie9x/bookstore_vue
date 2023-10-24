@@ -1,0 +1,178 @@
+[{
+  "_id": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "name": "Điện Biên Phủ của chúng em",
+  "description": "Mã Kim Đồng: 6231110060015\n\nISBN: 978-604-2-33019-0\n\nTác giả: Nhiều tác giả\n\nĐối tượng: Thiếu niên (11 – 15)\n\nKhuôn Khổ: 14,5x20,5 cm\n\nSố trang: 192\n\nĐịnh dạng: bìa mềm\n\nTrọng lượng: 225 gram\n\nBộ sách: Sách giáo dục truyền thống",
+  "rating": 4.2,
+  "category": "Lịch Sử Việt Nam",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1694153535/Home/andshop/yqrm5xjkppphud1mhtmd.webp",
+    "http://res.cloudinary.com/duong1310/image/upload/v1694153567/Home/andshop/rwgut726jrhk9umjgqn4.webp"
+  ],
+  "price": 45000,
+  "originalPrice": 50000,
+  "sold": 2,
+  "view": 19,
+  "subject": 1,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-09-08T06:12:33.581Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:44:08.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fabb6715728e3280ae78ad"
+  },
+  "name": "Điện Biên Phủ của chúng em",
+  "description": "Mã Kim Đồng: 6231110060015\n\nISBN: 978-604-2-33019-0\n\nTác giả: Nhiều tác giả\n\nĐối tượng: Thiếu niên (11 – 15)\n\nKhuôn Khổ: 14,5x20,5 cm\n\nSố trang: 192\n\nĐịnh dạng: bìa mềm\n\nTrọng lượng: 225 gram\n\nBộ sách: Sách giáo dục truyền thống",
+  "rating": 5,
+  "category": "Lịch sử Việt Nam",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1694153543/Home/andshop/vm5ylze0miyd5aywo5xf.webp"
+  ],
+  "price": 45000,
+  "originalPrice": 50000,
+  "sold": 0,
+  "view": 0,
+  "subject": 1,
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-09-08T06:12:55.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:13:35.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "name": "Lý Nam Đế",
+  "description": "Mã Kim Đồng: \n6231406320005\nISBN: 978-604-2-29262-7\nTác giả: Tạ Huy Long\nĐối tượng: Nhi đồng (6 – 11)\nKhuôn Khổ: 14.5x20.5 cm\nSố trang: 32\nĐịnh dạng: bìa mềm\nTrọng lượng: 100 gram\nBộ sách: Tranh truyện lịch sử Việt Nam",
+  "rating": 3.7,
+  "category": "Lịch Sử Việt Nam",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1694153785/Home/andshop/mynkc3bejkox0iho58ko.jpg",
+    "http://res.cloudinary.com/duong1310/image/upload/v1694153837/Home/andshop/ezweggjc5m8zjnnqrhjy.jpg",
+    null
+  ],
+  "price": 18000,
+  "originalPrice": 20000,
+  "sold": 2,
+  "view": 19,
+  "subject": 1,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-09-08T06:16:41.061Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:27:31.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650d3e035eab9dd1265dab00"
+  },
+  "name": "ádfgvhbnm",
+  "description": "ẻdxtfcygvubhijnokml",
+  "rating": 5,
+  "category": "sdfghbj",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1695366658/Home/andshop/xwb2q3crxseic5xhzoxe.jpg"
+  ],
+  "price": 45000,
+  "originalPrice": 50000,
+  "sold": 0,
+  "view": 21,
+  "subject": 5,
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-09-22T07:10:59.203Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T12:21:56.628Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e85d53171c0618a10bc3d"
+  },
+  "name": "Chuyện hoa chuyện quả",
+  "description": "wevbkl,mnhgbvf tyuduitkslkjzlxksb xjhagjhxhlZxlk vsvsuygaskhxalkz jhsHFDJGSKDLK JDJGKJZFJKAHK jhsgkksdkj",
+  "rating": 5,
+  "category": "Văn Học Việt Nam",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1696499147/Home/andshop/pwkwnitodzdqi6wewb0j.jpg",
+    "http://res.cloudinary.com/duong1310/image/upload/v1696499195/Home/andshop/hiolq16sp7oasge8jv3y.jpg",
+    null
+  ],
+  "price": 45000,
+  "originalPrice": 40000,
+  "sold": 3,
+  "view": 9,
+  "subject": 5,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T09:45:57.192Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:22:28.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65311fc83171c0618a10bf1d"
+  },
+  "name": "Tư duy phản biện",
+  "description": "sDzfsgdhfjnbgcxvxc",
+  "rating": 5,
+  "category": "Giáo dục",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1697718194/Home/andshop/vhoxgsb2scjam2fdohxj.jpg",
+    "http://res.cloudinary.com/duong1310/image/upload/v1697865888/Home/andshop/pvtdvzumxfivzmmf8gji.jpg",
+    null,
+    null
+  ],
+  "price": 40000,
+  "originalPrice": 35000,
+  "sold": 0,
+  "view": 0,
+  "subject": 7,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-19T12:23:36.848Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:25:13.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6531200f3171c0618a10bf70"
+  },
+  "name": "Hai bà Trưng",
+  "description": "ewzrxtfcygvhbjnk",
+  "rating": 5,
+  "category": "Lịch Sử Việt Nam",
+  "images": [
+    "http://res.cloudinary.com/duong1310/image/upload/v1697718265/Home/andshop/wmytvfkm9e5gz0nbnqiq.jpg",
+    "http://res.cloudinary.com/duong1310/image/upload/v1697865980/Home/andshop/m2yowuu5nnh5hlkclyqa.jpg"
+  ],
+  "price": 50000,
+  "originalPrice": 45000,
+  "sold": 0,
+  "view": 3,
+  "subject": 0,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-19T12:24:47.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:27:16.969Z"
+  },
+  "__v": 0
+}]

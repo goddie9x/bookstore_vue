@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "admin": true,
+  "password": "$2a$10$dkb2P.AwcySPZ3UwtvWCGO1nfgyBgbBpCk.8Lh/MeJziB.EWC5k6q",
+  "avatar": "https://res.cloudinary.com/duong1310/image/upload/v1666660558/Home/avatar/default_enq4bq.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-09-07T02:31:24.170Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T02:31:24.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aaa72f35544e04207f35dd"
+  },
+  "username": "adminabc",
+  "email": "admin131a0@gmail.com",
+  "admin": true,
+  "password": "$2a$10$6Q7BuXbJXgW.IvAezft7SOtAcg4JpBfPAXL8BiIeE/uLZTjz9T2Vi",
+  "avatar": "https://res.cloudinary.com/duong1310/image/upload/v1666660558/Home/avatar/default_enq4bq.jpg",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2022-12-27T08:05:03.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T05:52:26.214Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f93f54970af0ad1345d896"
+  },
+  "username": "tran",
+  "email": "tran@gmail.com",
+  "admin": false,
+  "password": "$2a$10$z.NMQD9CeFXruBmRzQ9Q2eWIih5DmfKPra1ufgUZQlNLZFVMn7A/y",
+  "avatar": "https://res.cloudinary.com/duong1310/image/upload/v1666660558/Home/avatar/default_enq4bq.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-09-07T03:11:16.831Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T03:11:16.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e63fc506faaf117bb0338"
+  },
+  "username": "nhi",
+  "email": "nhi@gmail.com",
+  "admin": false,
+  "password": "$2a$10$sUB1v5PA6OmUGIUoAhJmyuetNWPIIEqCUU0sNVDdseVatqBz64rlK",
+  "avatar": "https://res.cloudinary.com/duong1310/image/upload/v1666660558/Home/avatar/default_enq4bq.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T07:21:32.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T07:21:32.374Z"
+  },
+  "__v": 0
+}]

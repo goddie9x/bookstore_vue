@@ -1,0 +1,463 @@
+[{
+  "_id": {
+    "$oid": "635d58d108985df0e6091a77"
+  },
+  "order": {
+    "$oid": "635d58d108985df0e6091a75"
+  },
+  "product": {
+    "$oid": "631619ecb970c6169180dc38"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 60,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-04-29T16:46:09.969Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T16:46:09.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d58d108985df0e6091a78"
+  },
+  "order": {
+    "$oid": "635d58d108985df0e6091a75"
+  },
+  "product": {
+    "$oid": "63161a61b970c6169180dc40"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 40,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-04-29T16:46:09.969Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T16:46:09.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d58fb08985df0e6091ac4"
+  },
+  "order": {
+    "$oid": "635d58fb08985df0e6091ac2"
+  },
+  "product": {
+    "$oid": "63172540d5501d37b7d9897f"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 56,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-02-01T16:46:51.036Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T16:46:51.036Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d596808985df0e6091b33"
+  },
+  "order": {
+    "$oid": "635d596808985df0e6091b31"
+  },
+  "product": {
+    "$oid": "63161918b970c6169180dc30"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 66,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-01-29T16:48:40.803Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T16:48:40.803Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d596808985df0e6091b34"
+  },
+  "order": {
+    "$oid": "635d596808985df0e6091b31"
+  },
+  "product": {
+    "$oid": "631619ecb970c6169180dc38"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 60,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-01-29T16:48:40.804Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T16:48:40.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d596808985df0e6091b35"
+  },
+  "order": {
+    "$oid": "635d596808985df0e6091b31"
+  },
+  "product": {
+    "$oid": "63161a61b970c6169180dc40"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 40,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-01-29T16:48:40.804Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T16:48:40.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d69bcbd811c14bbae6380"
+  },
+  "order": {
+    "$oid": "635d69bcbd811c14bbae637e"
+  },
+  "product": {
+    "$oid": "635d664abd811c14bbae6249"
+  },
+  "size": "M",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-10-29T17:58:20.447Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-29T17:58:20.447Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635dd5e7ca662b6c157f6663"
+  },
+  "order": {
+    "$oid": "635dd5e7ca662b6c157f6661"
+  },
+  "product": {
+    "$oid": "635d655b6cbb4c1d05db783b"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-10-30T01:39:51.683Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-30T01:39:51.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635dd8cfac0d1e201d387258"
+  },
+  "order": {
+    "$oid": "635dd8cfac0d1e201d387256"
+  },
+  "product": {
+    "$oid": "635d664abd811c14bbae6249"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-10-30T01:52:15.439Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-30T01:52:15.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635e35bf82d241a625bd57f5"
+  },
+  "order": {
+    "$oid": "635e35be82d241a625bd57f3"
+  },
+  "product": {
+    "$oid": "635d655b6cbb4c1d05db783b"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-09-30T08:28:47.026Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-30T08:28:47.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635fe0e20accc3aa494c1d54"
+  },
+  "order": {
+    "$oid": "635fe0e20accc3aa494c1d52"
+  },
+  "product": {
+    "$oid": "635d664abd811c14bbae6249"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-10-31T14:51:14.739Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T14:51:14.739Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636095209cb51d28014fb77b"
+  },
+  "order": {
+    "$oid": "636095209cb51d28014fb779"
+  },
+  "product": {
+    "$oid": "63161918b970c6169180dc30"
+  },
+  "size": "S",
+  "quantity": 1,
+  "price": 66,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-01T03:40:16.080Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-01T03:40:16.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636095209cb51d28014fb77c"
+  },
+  "order": {
+    "$oid": "636095209cb51d28014fb779"
+  },
+  "product": {
+    "$oid": "631619ecb970c6169180dc38"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 60,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-01T03:40:16.081Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-01T03:40:16.081Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6360954b9cb51d28014fb7e9"
+  },
+  "order": {
+    "$oid": "6360954b9cb51d28014fb7e7"
+  },
+  "product": {
+    "$oid": "635d655b6cbb4c1d05db783b"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-01T03:40:59.376Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-01T03:40:59.376Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6360990f9cb51d28014fbc14"
+  },
+  "order": {
+    "$oid": "6360990f9cb51d28014fbc12"
+  },
+  "product": {
+    "$oid": "63161a61b970c6169180dc40"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 40,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-01T03:57:03.691Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-01T03:57:03.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e3eef5eab9dd1265db238"
+  },
+  "order": {
+    "$oid": "651e3eef5eab9dd1265db236"
+  },
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 18000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T04:43:27.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T04:43:27.118Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e3eef5eab9dd1265db239"
+  },
+  "order": {
+    "$oid": "651e3eef5eab9dd1265db236"
+  },
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 45000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T04:43:27.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T04:43:27.118Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e44655eab9dd1265db541"
+  },
+  "order": {
+    "$oid": "651e44655eab9dd1265db53f"
+  },
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 18000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T05:06:45.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T05:06:45.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e44655eab9dd1265db542"
+  },
+  "order": {
+    "$oid": "651e44655eab9dd1265db53f"
+  },
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 45000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T05:06:45.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T05:06:45.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e5abd506faaf117bb00ed"
+  },
+  "order": {
+    "$oid": "651e5abd506faaf117bb00eb"
+  },
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 18000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T06:42:05.917Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T06:42:05.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e5abd506faaf117bb00ee"
+  },
+  "order": {
+    "$oid": "651e5abd506faaf117bb00eb"
+  },
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 45000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T06:42:05.917Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T06:42:05.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e930d3171c0618a10bcdc"
+  },
+  "order": {
+    "$oid": "651e930d3171c0618a10bcda"
+  },
+  "product": {
+    "$oid": "651e85d53171c0618a10bc3d"
+  },
+  "size": "10",
+  "quantity": 3,
+  "price": 45000,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-10-05T10:42:21.671Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T10:42:21.671Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "635a9848b11be889b21cddcc"
+  },
+  "user": {
+    "$oid": "630f78dc6812ccc7b066b2cc"
+  },
+  "product": {
+    "$oid": "63160a34b970c6169180dc08"
+  },
+  "createdAt": {
+    "$date": "2022-10-27T14:40:08.613Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-27T14:40:08.613Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635fe3850accc3aa494c21d9"
+  },
+  "user": {
+    "$oid": "630f78dc6812ccc7b066b2cc"
+  },
+  "product": {
+    "$oid": "631619ecb970c6169180dc38"
+  },
+  "createdAt": {
+    "$date": "2022-10-31T15:02:29.407Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T15:02:29.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fabf3b15728e3280ae796f"
+  },
+  "user": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T06:29:15.103Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:29:15.103Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fabf3c15728e3280ae7978"
+  },
+  "user": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T06:29:16.209Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:29:16.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fbeaf015728e3280ae7cf9"
+  },
+  "user": {
+    "$oid": "64f93f54970af0ad1345d896"
+  },
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "createdAt": {
+    "$date": "2023-09-09T03:48:00.139Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T03:48:00.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650d36725eab9dd1265daa38"
+  },
+  "user": {
+    "$oid": "64f93f54970af0ad1345d896"
+  },
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "createdAt": {
+    "$date": "2023-09-22T06:38:42.825Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T06:38:42.825Z"
+  },
+  "__v": 0
+}]

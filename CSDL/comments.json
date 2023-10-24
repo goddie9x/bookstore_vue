@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "64fab9e015728e3280ae77b2"
+  },
+  "user": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "author": "admin",
+  "comment": "hay",
+  "product": {
+    "$oid": "64fab7c515728e3280ae76ea"
+  },
+  "rating": 3,
+  "createdAt": {
+    "$date": "2023-09-08T06:06:24.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:06:24.580Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fbeb0f15728e3280ae7d01"
+  },
+  "user": {
+    "$oid": "64f93f54970af0ad1345d896"
+  },
+  "author": "tran",
+  "comment": "hay\n",
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "rating": 3,
+  "createdAt": {
+    "$date": "2023-09-09T03:48:31.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T03:48:31.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "651e84b73171c0618a10bbe2"
+  },
+  "user": {
+    "$oid": "651e63fc506faaf117bb0338"
+  },
+  "author": "nhi",
+  "comment": "Hay\n",
+  "product": {
+    "$oid": "64fabc4915728e3280ae7917"
+  },
+  "rating": 4,
+  "createdAt": {
+    "$date": "2023-10-05T09:41:11.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:41:11.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65313a703171c0618a10c292"
+  },
+  "user": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "author": "admin",
+  "comment": "hay\n",
+  "product": {
+    "$oid": "6531200f3171c0618a10bf70"
+  },
+  "rating": 5,
+  "createdAt": {
+    "$date": "2023-10-19T14:17:20.168Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T14:17:20.168Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "653361993171c0618a10c545"
+  },
+  "user": {
+    "$oid": "64f935fcdd7fa40793b2a737"
+  },
+  "author": "admin",
+  "comment": "hay",
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "rating": 4,
+  "createdAt": {
+    "$date": "2023-10-21T05:28:57.154Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:28:57.154Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "653361b13171c0618a10c567"
+  },
+  "user": {
+    "$oid": "64f93f54970af0ad1345d896"
+  },
+  "author": "tran",
+  "comment": "hay\n",
+  "product": {
+    "$oid": "64fabb5115728e3280ae78a7"
+  },
+  "rating": 4,
+  "createdAt": {
+    "$date": "2023-10-21T05:29:21.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T05:29:21.276Z"
+  },
+  "__v": 0
+}]
